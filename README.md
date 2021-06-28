@@ -47,6 +47,11 @@
 </p>
 
 -----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahyotm&show_icons=true&locale=en&layout=compact" alt="SahyoTM" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahyotm&show_icons=true&locale=en" alt="SahyoTM" /></p>
+
+
 Credits: [SahyoTM](https://github.com/SahyoTM)
 
 Last Edited on: 28/06/2021
