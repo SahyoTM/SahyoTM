@@ -30,7 +30,7 @@
 
 <hr>
 
-## Thank you for visiting my profile. You're a gem. :gem:
+## Thank you for visiting my profile.
 
 ![Visitor Count](https://profile-counter.glitch.me/SahyoTM/count.svg)
 
