@@ -43,7 +43,6 @@
 <a href="https://www.linkedin.com/in/theomeyertm/"><img src="https://img.shields.io/badge/-Théo_Meyer-black?logo=linkedin&style=flat-square"></a>
 <a href="https://www.instagram.com/theomeyerweb/"><img src="https://img.shields.io/badge/-theomeyerweb-black?logo=instagram&style=flat-square"/></a>
 <a href="mailto:theomeyer52@icloud.com"><img src="https://img.shields.io/badge/-theomeyer52@icloud.com-black?logo=icloud&style=flat-square"/></a>
-<a href="https://twitter.com/Sahyo__"><img src="https://img.shields.io/badge/-Sahyo__-black?logo=twitter&style=flat-square"/></a>
 </p>
 
 -----
